@@ -7,9 +7,6 @@
 ## Features
 
 - **CRUD Operations**: Create, read, update, and delete blog posts.
-- **Category Management**: Manage blog categories.
-- **Tag Management**: Manage tags for blog posts.
-- **User Authentication**: Secure endpoints using JWT-based authentication.
 - **Pagination and Filtering**: Support for paginated and filtered queries.
 
 ## Prerequisites
