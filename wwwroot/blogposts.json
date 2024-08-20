@@ -1,0 +1,80 @@
+[
+    {
+      "Id": 1,
+      "Username": "Alice",
+      "DateCreated": "2024-07-30T00:00:00Z",
+      "Text": "This is the first blog post. Welcome to our blog!"
+    },
+    {
+      "Id": 2,
+      "Username": "Bob",
+      "DateCreated": "2024-08-01T10:15:00Z",
+      "Text": "Insights into our latest project developments."
+    },
+    {
+      "Id": 3,
+      "Username": "Charlie Kankekar",
+      "DateCreated": "2024-08-03T09:15:00Z",
+      "Text": "An in-depth look at the new features we've released this month."
+    },
+    {
+      "Id": 4,
+      "Username": "Dana",
+      "DateCreated": "2024-08-05T14:30:00Z",
+      "Text": "Exploring the new trends in tech for 2024 and beyond."
+    },
+    {
+      "Id": 5,
+      "Username": "Eve",
+      "DateCreated": "2024-08-07T16:45:00Z",
+      "Text": "A comprehensive guide to understanding machine learning algorithms."
+    },
+    {
+      "Id": 6,
+      "Username": "Frank",
+      "DateCreated": "2024-08-09T10:20:00Z",
+      "Text": "Tips and tricks for efficient remote work and collaboration."
+    },
+    {
+      "Id": 7,
+      "Username": "Grace",
+      "DateCreated": "2024-08-12T09:00:00Z",
+      "Text": "An overview of the best practices for software development."
+    },
+    {
+      "Id": 8,
+      "Username": "Hank",
+      "DateCreated": "2024-08-14T11:30:00Z",
+      "Text": "How to balance work and personal life: Strategies and insights."
+    },
+    {
+      "Id": 9,
+      "Username": "Ivy",
+      "DateCreated": "2024-08-16T13:15:00Z",
+      "Text": "A detailed review of the latest smartphone models released this year."
+    },
+    {
+      "Id": 10,
+      "Username": "Jack",
+      "DateCreated": "2024-08-18T12:00:00Z",
+      "Text": "Exploring the future of artificial intelligence and its applications."
+    },
+    {
+      "Id": 11,
+      "Username": "Karen",
+      "DateCreated": "2024-08-17T15:30:00Z",
+      "Text": "The impact of social media on modern communication and business."
+    },
+    {
+      "Id": 12,
+      "Username": "Leo",
+      "DateCreated": "2024-08-13T08:45:00Z",
+      "Text": "An introduction to blockchain technology and its potential uses."
+    },
+    {
+      "Id": 13,
+      "Username": "Mia",
+      "DateCreated": "2024-08-15T17:00:00Z",
+      "Text": "Understanding the principles of user experience design in digital products."
+    }
+  ]

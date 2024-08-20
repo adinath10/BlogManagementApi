@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "FfMmvcx5yHts4jHaiQ/MvuqpnQXkx9gtP1fsQxl2YpE=",
+  "Source": "BlogManagementApi",
+  "BasePath": "_content/BlogManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlogManagementApi\\wwwroot",
+      "Source": "BlogManagementApi",
+      "ContentRoot": "D:\\BlogManagement\\BlogManagementApi\\wwwroot\\",
+      "BasePath": "_content/BlogManagementApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BlogManagement\\BlogManagementApi\\wwwroot\\blogposts.json",
+      "SourceId": "BlogManagementApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BlogManagement\\BlogManagementApi\\wwwroot\\",
+      "BasePath": "_content/BlogManagementApi",
+      "RelativePath": "blogposts.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blogposts.json"
+    }
+  ]
+}
